@@ -5,5 +5,5 @@ Data-Products-Slidify
 
 Instructions
 
-1. View the Shiny app page at http://ssk992.shinyapp.io/data_products 
+1. View the Shiny app page at http://ssk992.shinyapps.io/data_products/
 2. View the Slidify presentation at http://rwstang.github.com/Data-Products-Slidify
